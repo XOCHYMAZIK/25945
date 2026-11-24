@@ -7,4 +7,9 @@
 /t7/line_lookup_mmap
 /t8/locked_editor
 /t9/process_manager
+/t10/run_command
+/t17/line_editor
+/t18/list_metadata
+/t21/signal_beeper
+/t25/pipe_uppercase
 __pycache__/
